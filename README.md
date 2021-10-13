@@ -23,3 +23,8 @@
 <br/>
 
 ![](https://github.com/StephenFordham/Visualisation_Portfolio/blob/main/Figure%203%20Plamid%20Inc%20Families%20with%20IS.jpeg)
+
+### Figure 4. Global antibiotic resistant scores in the bacterium _Klebsiella pneumoniae_
+<br/>
+
+![](https://github.com/StephenFordham/Geopandas_mapping_tutorial/blob/master/global_resistance.png)
